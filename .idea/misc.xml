@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$/../WhatsTheScore/backend" value="2973237306000" />
-        <entry key="$PROJECT_DIR$/../generic-tests" value="2972536534000" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="MarkdownProjectSettings">
     <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="false" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="false" synchronizeSourcePosition="false">
       <PanelProvider>
