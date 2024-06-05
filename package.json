@@ -1,0 +1,17 @@
+{
+  "name": "leet_code_solutions",
+  "version": "1.0.0",
+  "description": "Repo to practise leet code problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "python",
+    "algorithms",
+    "leetcode"
+  ],
+  "author": "Gaurang Dave",
+  "license": "ISC"
+}
